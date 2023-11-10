@@ -1,9 +1,9 @@
 //your JS code here. If required.
 
-let firstName = document.getElementById('firstname')
-let lastName = document.getElementById('lastname')
-let mobile = document.getElementById('mobile')
-let mail = document.getElementById('mail')
+let firstName = document.getElementById('First Name')
+let lastName = document.getElementById('Last Name')
+let mobile = document.getElementById('Phone Number')
+let mail = document.getElementById('Email ID')
 let form = document.getElementById('form')
 
 form.addEventListener('submit',()=>{
